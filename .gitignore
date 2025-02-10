@@ -1,0 +1,12 @@
+# Ignorera macOS systemfiler
+.DS_Store
+
+# Ignorera Xcode specifika filer
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata
+*.xcscmblueprint
+
+# Ignorera byggfiler
+build/
+DerivedData/
