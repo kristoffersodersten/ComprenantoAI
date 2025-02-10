@@ -1,0 +1,60 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "flag": "🇺🇸",
+      "supportedFeatures": ["translation", "tts", "transcription"]
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "nativeName": "Español",
+      "flag": "🇪🇸",
+      "supportedFeatures": ["translation", "tts", "transcription"]
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "nativeName": "Français",
+      "flag": "🇫🇷",
+      "supportedFeatures": ["translation", "tts", "transcription"]
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "nativeName": "Deutsch",
+      "flag": "🇩🇪",
+      "supportedFeatures": ["translation", "tts", "transcription"]
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "nativeName": "Italiano",
+      "flag": "🇮🇹",
+      "supportedFeatures": ["translation", "tts", "transcription"]
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "nativeName": "日本語",
+      "flag": "🇯🇵",
+      "supportedFeatures": ["translation", "tts", "transcription"]
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "nativeName": "한국어",
+      "flag": "🇰🇷",
+      "supportedFeatures": ["translation", "tts", "transcription"]
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "nativeName": "中文",
+      "flag": "🇨🇳",
+      "supportedFeatures": ["translation", "tts", "transcription"]
+    }
+  ]
+}

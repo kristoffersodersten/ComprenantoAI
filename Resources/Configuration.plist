@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>API</key>
+    <dict>
+        <key>BaseURL</key>
+        <string>https://api.openai.com/v1</string>
+        <key>TTSEndpoint</key>
+        <string>/audio/speech</string>
+        <key>TranslationEndpoint</key>
+        <string>/chat/completions</string>
+    </dict>
+    <key>Security</key>
+    <dict>
+        <key>RequiresBiometrics</key>
+        <true/>
+        <key>TokenExpirationInterval</key>
+        <integer>3600</integer>
+    </dict>
+    <key>Features</key>
+    <dict>
+        <key>EnableOfflineMode</key>
+        <true/>
+        <key>EnableDebugLogging</key>
+        <true/>
+    </dict>
+</dict>
+</plist>
